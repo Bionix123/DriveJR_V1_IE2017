@@ -1,0 +1,4 @@
+Infoeducatie 2017
+
+DriveJR V1.2 reprezinta aplicatia masinii, aplicatie ce este compatibila PC si Android
+Proiectul este in continua dezvoltare.
